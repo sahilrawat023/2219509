@@ -1,0 +1,16 @@
+[2025-07-15T05:47:28.943Z] Server listening on http://localhost:3000
+[2025-07-15T05:48:10.069Z] Request: GET /
+[2025-07-15T05:48:10.081Z] Response: 404 GET / [12ms]
+[2025-07-15T05:51:26.317Z] Request: POST /shorturls
+[2025-07-15T05:51:26.327Z] Response: 201 POST /shorturls [10ms]
+[2025-07-15T05:51:49.705Z] Request: POST /shorturls
+[2025-07-15T05:51:49.708Z] Response: 201 POST /shorturls [3ms]
+[2025-07-15T05:52:01.815Z] Request: POST /shorturls
+[2025-07-15T05:52:01.816Z] Response: 201 POST /shorturls [1ms]
+[2025-07-15T05:52:08.564Z] Request: GET /4TFlRv
+[2025-07-15T05:52:08.579Z] Response: 302 GET /4TFlRv [15ms]
+[2025-07-15T05:52:18.694Z] Request: GET /4TFlRv
+[2025-07-15T05:52:18.698Z] Response: 302 GET /4TFlRv [4ms]
+[2025-07-15T06:23:41.342Z] Server listening on http://localhost:3000
+[2025-07-15T06:24:19.848Z] Request: POST /shorturls
+[2025-07-15T06:24:19.862Z] Response: 201 POST /shorturls [14ms]
